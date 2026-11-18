@@ -10,9 +10,9 @@
 
 [简体中文](#-简体中文) • [English](#-english) • [日本語](#-日本語)
 
-![Difficulty](https://shields.io)
-![Platform](https://shields.io)
-![Status](https://shields.io)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 </div>
 
@@ -27,13 +27,13 @@
 <img width="2560" height="1229" alt="image" src="https://github.com/user-attachments/assets/f9a6b029-5c6b-45a1-9b0b-c99afe6ebc52" />
 
 ---
-
 ## 🇨🇳 简体中文
 
 ### ✨ 项目特色
 * **四档难度挑战**：从新手友好的 `Easy` (10秒) 到硬核车万人专属的 `Lunatic` (1秒) 极限听音辨曲。
 * **灵活题库配置**：支持按作品系列自选曲库，提供 5 / 10 / 20 题及无尽模式 (`∞`)。
 * **排行榜**：实时结算准确率与反应速度分，支持自定义昵称冲榜。
+* **开箱即用**：纯网页端运行，手机与电脑浏览器打开即玩，无需下载。
 
 ### 🐛 问题反馈与曲库许愿
 本仓库为 **《东方原曲测试》** 的公开主页与玩家反馈中心。如果你在游玩过程中遇到以下情况，欢迎随时提交 **[New Issue](../../issues/new)**：
@@ -53,6 +53,7 @@
 * **4 Difficulty Levels**: Ranging from beginner-friendly `Easy` (10s) to hardcore `Lunatic` (1s) audio clips.
 * **Customizable Track Pools**: Filter tracks by specific Touhou games, with 5 / 10 / 20-question modes or Endless Mode (`∞`).
 * **Leaderboard**: Scored based on both accuracy and reaction speed. Set your nickname and climb the ranks!
+* **Zero Install**: Fully web-based and responsive on both desktop and mobile browsers.
 
 ### 🐛 Feedback & Requests
 This repository serves as the public hub and issue tracker for **Touhou Original Music Quiz**. Feel free to open a **[New Issue](../../issues/new)** if you encounter:
@@ -72,6 +73,7 @@ This repository serves as the public hub and issue tracker for **Touhou Original
 * **4段階の難易度**：初心者向けの `Easy`（10秒）から、東方ガチ勢向けの超難関 `Lunatic`（1秒）まで対応。
 * **自由な出題範囲**：作品ごとの曲目選択に対応。問題数も 5問 / 10問 / 20問 / エンドレス（`∞`）から選択可能。
 * **オンラインランキング**：正答率と回答スピードでスコアを算出。好きなニックネームでランキング上位を目指そう！
+* **インストール不要**：PC・スマホのブラウザからアクセスしてすぐに遊べます。
 
 ### 🐛 不具合報告・要望
 このリポジトリは **『東方原曲テスト』** の公式案内およびフィードバック窓口です。以下のような場合は、お気軽に **[New Issue](../../issues/new)** よりご連絡ください：
@@ -81,4 +83,4 @@ This repository serves as the public hub and issue tracker for **Touhou Original
 
 ### ☕ クレジット
 * 原曲の著作権はすべて **上海アリス幻樂団（ZUN）** に帰属します。
-* 楽しんでいただけましたら、右上の **Star ⭐** を押して応援していただけると嬉しいです！
+* 楽しんでいただけましたら、右上の **Star ⭐** を押して応援していただけると嬉しいです

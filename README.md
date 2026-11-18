@@ -10,8 +10,8 @@
 
 [简体中文](#-简体中文) • [English](#-english) • [日本語](#-日本語)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy%20--%20Lunatic-yellow)
+![Platform](https://img.shields.io/badge/Platform-Web%20%2F%20Mobile-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 </div>

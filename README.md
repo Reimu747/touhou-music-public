@@ -6,7 +6,7 @@
 *Listen to a short clip and guess the Touhou original track! From 10s Easy to 1s Lunatic.*  
 *短いイントロやサビを聴いて東方原曲を当てよう！10秒の Easy から、わずか1秒の Lunatic まで！*
 
-**[👉 立即开始在线挑战 / Play Online / 今すぐプレイ](touhou-music.reimu747.ink)**
+**[👉 立即开始在线挑战 / Play Online / 今すぐプレイ]([https://reimu747.ink](https://touhou-music.reimu747.ink/))**
 
 [简体中文](#-简体中文) • [English](#-english) • [日本語](#-日本語)
 
